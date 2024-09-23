@@ -1,1 +1,5 @@
-89.106.200.1
+$ dig classes.grc.calpoly.edu +nostats +nocomments +nocmd
+> ;classes.grc.calpoly.edu.                    IN      A
+> classes.grc.calpoly.edu.             3592    IN      CNAME   ulfa2102.github.io.
+> ulfa2102.github.io.      43192   IN      CNAME   185.199.108.153 .
+> 185.199.108.153 .         22      IN      A       192.0.2.1
