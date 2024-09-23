@@ -1,1 +1,5 @@
-www.jametmiring.my.id
+$ dig jametmiring.my.id +noall +answer -t A
+> jametmiring.my.id    600    IN A     185.199.108.153
+> jametmiring.my.id    600    IN A     185.199.109.153
+> jametmiring.my.id    600    IN A     185.199.110.153
+> jametmiring.my.id    600    IN A     185.199.111.153
