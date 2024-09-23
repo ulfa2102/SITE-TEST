@@ -1,5 +1,1 @@
-$ dig www.classes.grc.calpoly.edu +nostats +nocomments +nocmd
-> ;www.classes.grc.calpoly.edu.                    IN      A
-> www.classes.grc.calpoly.edu.             3592    IN      CNAME   ulfa2102.github.io.
-> ulfa2102.github.io.      43192   IN      CNAME   GITHUB-PAGES-SERVER .
-> GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
+classes.grc.calpoly.edu
